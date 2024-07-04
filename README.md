@@ -7,14 +7,14 @@ The dataset comprises credit card transactions made by European cardholders in S
 </br>
 </br>
   ## Problem statement
-#
+
 credit card companies need to be able to recognize fraud credit card transactions so that their customers will not be charged for items they did not purchase.
 this is a concerning issue to both banks and customers alike in terms of substantial financial losses, trust and credibility.
 </br>
 </br>
 
   ## Notes
-#
+
   - Time, Amount and Class data are in normal format only features not subjected to PCA.
   - remain data is in v1 v2 like variable names given for columns to hide the identity.
   - This dataset only includes numerical input variables resulting from a PCA transformation.
@@ -24,7 +24,7 @@ this is a concerning issue to both banks and customers alike in terms of substan
 </br>
 
 ## Project Pipeline
-#
+
 - Data Understanding
 - Data Preparing for modelling
 - Building the model
